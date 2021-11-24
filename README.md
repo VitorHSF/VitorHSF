@@ -1,7 +1,7 @@
                                                   Oii ! Eu sou o Vitor Ferreira
 
 - 📚 Faculdade De Análise E Desenvolvimento De Sistema - FATEC
-- 👨‍💻 Estudando HTML5, CSS3 e JavaScript
+- 👨‍💻 Estudando HTML5, CSS3
 
 <div align="center">
   <a href="https://github.com/VitorHSF">
